@@ -1,0 +1,4 @@
+    khoi "MyConnect": "Server=DESKTOP-PCSQRN2\\SQLEXPRESS01;Database=fptbook;Trusted_Connection=True;TrustServerCertificate=True;"
+
+         "MyConnect": "Server=.\\;Database=fptbook;Trusted_Connection=True;TrustServerCertificate=True;"
+    trinh
